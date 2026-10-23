@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+.venv/
+venv/
+ENV/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Build & Dist
+dist/
+build/
+server.js
+
+# Environment & Secrets
+.env
+.env.local
+.env.*.local
+
+# Vector DB & Local Generated Data
+data/chroma/
+data/uploads/
+data/extracted_pages.json
+.aistudio/
+.antigravity/
+*.log
+.DS_Store
+data/hr_manual.pdf
+data/evaluation_report.json

@@ -1,0 +1,1 @@
+{"name":"Enso HR Policy Assistant","description":"Enterprise RAG assistant for the Enso Group HR Policy Manual with verifiable page-and-section citations, strict Not-found abstention, and LMS 5-question batch evaluation.","requestFramePermissions":[],"majorCapabilities":["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]}
